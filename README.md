@@ -58,11 +58,11 @@ Sparsity Loss = mean(|g_ij|)
 
 ### Accuracy vs Sparsity
 
-![Tradeoff](results/tradeoff.png)
+![Tradeoff](tradeoff.png)
 
 ### Gate Distribution
 
-![Distribution](results/gate_distribution.png)
+![Distribution](gate_distribution.png)
 
 ---
 
