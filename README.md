@@ -112,5 +112,5 @@ This approach enables:
 ---
 
 ## Author
-* kunal singh
+kunal singh
 
